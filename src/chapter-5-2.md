@@ -3,13 +3,6 @@ Features and Capabilities of ChatGPT
 
 ChatGPT is an AI-powered chatbot that can be used to optimize menus and create new recipes in the food industry. In this chapter, we will discuss the features and capabilities of ChatGPT, including how it works and what it can do.
 
-How ChatGPT Works
------------------
-
-ChatGPT is based on a type of AI called natural language processing (NLP). NLP allows computers to understand and analyze human language, making it possible for ChatGPT to understand customer requests and preferences.
-
-ChatGPT uses machine learning algorithms to analyze data on customer behavior and preferences, which it then uses to provide personalized recommendations for menu items and recipes. The more data ChatGPT has access to, the more accurate and personalized its recommendations become.
-
 Features of ChatGPT
 -------------------
 
