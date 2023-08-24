@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the potential of ChatGPT for AI-powered menu optimization and recipe creation in the food industry. We have discussed the features and capabilities of ChatGPT, as well as case studies of companies that have successfully implemented ChatGPT in their food businesses.
 

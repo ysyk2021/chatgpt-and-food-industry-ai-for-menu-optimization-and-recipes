@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Food Industry
-=======================================================
 
 In this chapter, we will explore the role of AI and chatbots in the food industry, specifically how they can improve menu optimization and recipe creation.
 

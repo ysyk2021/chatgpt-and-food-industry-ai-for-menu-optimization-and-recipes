@@ -1,5 +1,3 @@
-Potential Advancements in Food Industry with ChatGPT
-=====================================================================================================
 
 The future of the food industry looks bright with the potential advancements that can be made with ChatGPT technology. In this chapter, we will explore some of the possible ways that ChatGPT can transform the food industry.
 

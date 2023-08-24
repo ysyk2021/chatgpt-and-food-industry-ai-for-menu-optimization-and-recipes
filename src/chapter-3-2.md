@@ -1,5 +1,3 @@
-Common Challenges Faced by Food Businesses
-==================================================================================
 
 In this chapter, we will explore some of the common challenges faced by food businesses in today's market.
 

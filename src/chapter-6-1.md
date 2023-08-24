@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Food Industry
-=============================================================================================
 
 Implementing ChatGPT technology in the food industry can be a complex process, but by following these steps, you can ensure that the implementation is successful.
 

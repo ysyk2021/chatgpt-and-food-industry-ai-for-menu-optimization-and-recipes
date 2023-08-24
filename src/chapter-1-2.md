@@ -1,5 +1,3 @@
-Explanation of Food Industry and Its Importance
-=============================================================
 
 The food industry is a complex and diverse industry that encompasses everything from farming and production to distribution and service. It plays a vital role in our economy and society, providing employment for millions of people and nourishment for billions.
 

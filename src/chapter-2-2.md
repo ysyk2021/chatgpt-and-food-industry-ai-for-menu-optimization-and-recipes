@@ -1,5 +1,3 @@
-Different Types of Businesses in Food Industry
-==================================================================================
 
 The food industry is a vast and diverse field that encompasses a wide range of businesses, from small, family-owned restaurants to large multinational corporations. In this chapter, we will explore the different types of businesses that make up the food industry.
 

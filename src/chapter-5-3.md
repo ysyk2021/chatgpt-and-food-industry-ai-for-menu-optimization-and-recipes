@@ -1,5 +1,3 @@
-How ChatGPT can be used for Menu Optimization and Recipe Creation
-===================================================================================================
 
 ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) to analyze large amounts of data on customer behavior and preferences. This technology can be used in the food industry to optimize menus and create new recipes.
 

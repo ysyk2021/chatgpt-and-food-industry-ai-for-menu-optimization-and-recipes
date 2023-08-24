@@ -1,5 +1,3 @@
-Definition of Food Industry
-===============================================================
 
 The food industry is a vast and complex industry that involves the production, processing, distribution, and consumption of food. It encompasses everything from farming and agriculture to food service and retail.
 

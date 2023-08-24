@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book explores the use of artificial intelligence (AI) and chatbots in the food industry to enhance menu optimization and recipe creation. Specifically, we will focus on the role of ChatGPT, an AI-powered chatbot that can analyze large amounts of data on customer behavior and preferences to provide customized menu options and recipe recommendations.
 

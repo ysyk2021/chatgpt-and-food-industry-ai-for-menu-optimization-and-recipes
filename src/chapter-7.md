@@ -1,5 +1,3 @@
-Chapter 6: Future of Food Industry with ChatGPT
-===============================================
 
 As ChatGPT technology continues to evolve, it is poised to transform the food industry in many exciting ways. In this chapter, we will explore the potential advancements that can be made with ChatGPT, as well as the emerging trends and challenges that may impact its future.
 

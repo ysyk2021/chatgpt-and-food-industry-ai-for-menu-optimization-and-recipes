@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Food Industry
-======================================
 
 In this chapter, we will explore the factors affecting the food industry and the common challenges faced by food businesses. We will also discuss the impact of these challenges on customer experience and satisfaction.
 

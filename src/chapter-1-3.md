@@ -1,5 +1,3 @@
-The Role of ChatGPT in AI-Powered Menu Optimization and Recipe Creation
-=====================================================================================
 
 In recent years, the food industry has seen a significant shift towards the use of technology to enhance customer experience and improve overall business operations. One such technology that is gaining popularity in the industry is artificial intelligence (AI) and its subset, natural language processing (NLP).
 

@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Food Industry and ChatGPT
-============================================================================================================
 
 As ChatGPT technology continues to advance, it is important to consider the emerging trends and challenges that may impact the future of the food industry. In this chapter, we will explore some of these trends and challenges.
 

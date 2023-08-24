@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 ChatGPT is an AI-powered chatbot that can be used to optimize menus and create new recipes in the food industry. In this book, we have discussed the features and capabilities of ChatGPT, as well as its potential benefits for businesses in the food industry.
 

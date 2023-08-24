@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI-powered chatbot that can be used to optimize menus and create new recipes in the food industry. It is based on a type of AI called natural language processing (NLP), which allows computers to understand and analyze human language.
 

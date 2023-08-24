@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Improving Menu Optimization and Recipe Creation
-=====================================================================================================================================
 
 By now, it is clear that AI-powered chatbots can significantly aid the food industry in menu optimization and recipe creation. However, there are certain best practices that need to be followed to ensure that the implementation of ChatGPT technology is successful.
 

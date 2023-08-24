@@ -1,5 +1,3 @@
-Factors Affecting Food Industry
-=======================================================================
 
 The food industry is a complex and constantly evolving field that faces many challenges. In this chapter, we will explore some of the key factors affecting the food industry, including changing consumer preferences, economic pressures, and regulatory issues.
 
@@ -29,5 +27,4 @@ Labor Shortages
 Finally, labor shortages are becoming an increasingly urgent issue for businesses in the food industry. As the demand for high-quality food products and services grows, businesses must compete for a limited pool of skilled workers. This can make it difficult to maintain consistent quality and service levels while also meeting customer demand.
 
 In conclusion, the food industry is facing many challenges, from changing consumer preferences to regulatory issues and supply chain disruptions. Businesses that are able to adapt and innovate in response to these challenges will be most successful in meeting customer demands and maintaining profitability.
-
 

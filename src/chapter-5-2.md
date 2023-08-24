@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is an AI-powered chatbot that can be used to optimize menus and create new recipes in the food industry. In this chapter, we will discuss the features and capabilities of ChatGPT, including how it works and what it can do.
 

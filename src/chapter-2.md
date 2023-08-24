@@ -1,5 +1,3 @@
-Chapter 1: Basics of Food Industry
-==================================
 
 In this chapter, we will explore the basics of the food industry, including its definition, different types of businesses, and the importance of menu optimization and recipe creation.
 
