@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Food Industry
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several factors affecting the food industry that can impact the implementation and effectiveness of AI technologies like ChatGPT for menu optimization and recipe generation.
 

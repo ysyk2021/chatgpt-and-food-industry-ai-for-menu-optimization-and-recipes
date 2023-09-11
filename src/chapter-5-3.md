@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Menu Optimization and Recipe Creation
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the practical applications of ChatGPT in menu optimization and recipe creation within the food industry. Leveraging the power of AI, ChatGPT offers a range of capabilities that can revolutionize these processes and drive innovation in culinary offerings.
 

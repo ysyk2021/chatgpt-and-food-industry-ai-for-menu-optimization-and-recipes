@@ -1,5 +1,4 @@
-Chapter: Different Types of Businesses in the Food Industry
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse landscape of the food industry and discuss the various types of businesses that operate within this dynamic sector. Understanding the different categories of food businesses helps analyze their unique characteristics, target markets, and operational models.
 

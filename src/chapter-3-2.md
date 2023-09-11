@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Food Businesses
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some common challenges that food businesses face when implementing AI technologies like ChatGPT for menu optimization and recipe generation. We will also discuss potential strategies to mitigate these challenges.
 

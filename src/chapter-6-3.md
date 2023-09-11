@@ -1,5 +1,4 @@
-Chapter: Case Studies of Food Businesses that have Successfully Implemented ChatGPT in their Services
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies of food businesses that have successfully integrated ChatGPT into their services, revolutionizing their menu optimization and recipe recommendation processes.
 

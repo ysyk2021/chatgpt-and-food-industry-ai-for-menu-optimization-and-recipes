@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Food Industry with ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some of the potential advancements that ChatGPT can bring to the food industry. As AI technology continues to evolve and improve, there are a variety of exciting possibilities for how ChatGPT can transform the culinary landscape.
 

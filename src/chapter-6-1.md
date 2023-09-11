@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Food Industry
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT in the food industry for menu optimization and recipe recommendation purposes. By following these steps, businesses can effectively integrate AI technology into their services and leverage its capabilities to provide personalized culinary experiences to their customers.
 

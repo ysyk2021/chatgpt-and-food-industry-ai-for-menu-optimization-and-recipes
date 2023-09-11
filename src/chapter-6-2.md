@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Menu Optimization and Recipe Creation
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for effectively utilizing ChatGPT to enhance menu optimization and recipe creation within the food industry.
 

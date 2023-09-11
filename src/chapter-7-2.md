@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in the Food Industry and ChatGPT
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and challenges that both the food industry and ChatGPT are facing. As technology continues to advance, new opportunities arise, but they also bring with them unique challenges that need to be addressed.
 

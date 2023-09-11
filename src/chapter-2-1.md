@@ -1,5 +1,4 @@
-Chapter: Definition of the Food Industry
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the definition and scope of the food industry. The food industry encompasses a wide range of activities related to the production, processing, packaging, distribution, and consumption of food and beverages. It plays a crucial role in providing sustenance, promoting culinary diversity, and contributing to economic growth worldwide.
 
